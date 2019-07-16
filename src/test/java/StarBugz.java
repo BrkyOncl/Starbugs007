@@ -7,5 +7,8 @@ public class StarBugz {
     public void testasd(){
 
     }
+    public  void  testAsdf(){
+
+    }
 
 }
